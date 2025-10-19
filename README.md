@@ -3,24 +3,22 @@
 
 Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning no Uniceub, desde o início do ano de 2025. Me formei no ensino médio em dezembro de 2024. Sou natural de Brásilia - DF, moro aqui desde sempre. Sempre gostei de Tecnologia e jogos e procuro me desenvolver na área pelos próximos anos.
 
-### 📱 Contatos
+### 📱 Informações e Contatos
 
 <p align="left">
     </a> 
-    <a href="https://github.com/S4b3rAth3n4?tab=repositories&sort=stargazers">
+    <a href="https://www.google.com/maps/place/Brasília+-+Plano+Piloto,+Brasília+-+DF/data=!4m2!3m1!1s0x935a3d18df9ae275:0x738470e469754a24?sa=X&ved=1t:242&ictx=111">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/S4b3rAth3n4?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Minha localidade" 
+            title="Minha localidade" 
+            src="https://custom-icon-badges.demolab.com/badge/Brasília-BRA-yellow?style=for-the-badge&logo=location&logoColor=white"
         />
-    </a>
-    <a href="https://github.com/S4b3rAth3n4?tab=followers">
+   </a> 
+     <a href="https://www.linkedin.com/in/bernardo-ornelas-b3548a37b/?trk=opento_sprofile_topcard" target="_blank">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/S4b3rAth3n4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            target="_blank">
+    </a> 
 </p>
 
 ---
@@ -73,4 +71,3 @@ Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning
   />
 
 </p>
-
