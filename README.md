@@ -71,3 +71,5 @@ Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning
   />
 
 </p>
+
+![snake gif](https://github.com/S4b3rAth3n4/S4b3rAth3n4/blob/output/github-snake-dark.svg)
