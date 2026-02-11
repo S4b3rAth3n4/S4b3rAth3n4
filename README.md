@@ -47,7 +47,7 @@ Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png](https://1000logos.net/power-bi-logo/)](https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png)" 
+    src="[[[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png](https://1000logos.net/power-bi-logo/)](https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png)](https://i.pinimg.com/736x/7a/f2/1e/7af21eaf89a449831a1e12d640b54fae.jpg)" 
     />
 <br/>
 <br/>
