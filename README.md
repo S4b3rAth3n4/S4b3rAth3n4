@@ -39,7 +39,7 @@ Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://pngimg.com/d/mysql_PNG11.png" 
+    src="[https://pngimg.com/d/mysql_PNG11.png](https://pngimg.com/uploads/mysql/mysql_PNG11.png)" 
     />
 <img 
     align="left" 
