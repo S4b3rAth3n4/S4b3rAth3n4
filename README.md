@@ -52,24 +52,6 @@ Me chamo Bernardo, atualmente estou cursando Ciencia de dados e Machine learning
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=S4b3rAth3n4&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img
-      align="left" 
-      alt="GitHub Stats" 
-      height="140" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4b3rAth3n4&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
 ![snake gif](https://github.com/S4b3rAth3n4/S4b3rAth3n4/blob/output/github-snake-dark.svg)
