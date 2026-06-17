@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Ciência de Dados & Machine Learning</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=480&height=45&pause=1000&color=58A6FF&lines=Procurando+experi%C3%AAncia;Cientista+de+dados+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=480&height=45&pause=1000&color=58A6FF&lines=Procurando+experi%C3%AAncia;Cientista+de+dados+em+forma%C3%A7%C3%A3o" alt="Typing SVG"
 </p>
 
 Me chamo Bernardo. Atualmente curso **Ciência de Dados e Machine Learning** na Uniceub, desde o início de 2025. Me formei no ensino médio em dezembro de 2024, sou natural de Brasília - DF e moro aqui desde sempre. Sempre gostei de tecnologia e jogos, e busco me desenvolver nessa área nos próximos anos.
