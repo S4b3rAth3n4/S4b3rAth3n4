@@ -36,8 +36,8 @@ Me chamo Bernardo. Atualmente curso **Ciência de Dados e Machine Learning** na 
 
 <!-- Troque "SEU_USUARIO" pelo seu usuário real do GitHub nas duas linhas abaixo -->
 <p align="left">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" alt="Streak do GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" />
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=S4b3rAth3n4&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" alt="Streak do GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=S4b3rAth3n4&theme=radical&hide_border=true" />
 </p>
 
 <br/>
