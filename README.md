@@ -10,16 +10,10 @@ Me chamo Bernardo. Atualmente curso **Ciência de Dados e Machine Learning** na 
 <br/>
 
 ### 📱 Informações e Contatos
-
 <p align="left">
-  <a href="https://www.google.com/maps/place/Brasília+-+Plano+Piloto,+Brasília+-+DF" target="_blank">
-    <img alt="Minha localidade" title="Minha localidade" src="https://custom-icon-badges.demolab.com/badge/Brasília-BRA-yellow?style=for-the-badge&logo=location&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bernardo-ornelas-b3548a37b/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.google.com/maps/place/Brasília+-+Plano+Piloto,+Brasília+-+DF" target="_blank"><img alt="Minha localidade" title="Minha localidade" src="https://custom-icon-badges.demolab.com/badge/Brasília-BRA-yellow?style=for-the-badge&logo=location&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bernardo-ornelas-b3548a37b/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
 <br/>
 
 ### 🤖 Linguagens e Tecnologias
